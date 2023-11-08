@@ -1,10 +1,13 @@
- 
- 
 README.md
 
 # Amazon.in Clone Project
 
 This project is a web-based clone of the Amazon.in website, built using HTML and CSS. It aims to replicate the functionality and design of the Amazon.in homepage.
+
+# Online deployment
+We have deployed our project on the cloud using Netlify. It can be accessed using the following link:
+
+https://amazon-in-clone-1928.netlify.app
 
 ## Table of Contents
 
