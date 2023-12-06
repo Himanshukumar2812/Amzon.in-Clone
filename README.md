@@ -7,7 +7,7 @@ This project is a web-based clone of the Amazon.in website, built using HTML and
 # Online deployment
 We have deployed our project on the cloud using Netlify. It can be accessed using the following link:
 
-https://amazon-in-clone-1928.netlify.app
+https://himanshukumar2812.github.io/Amzon.in-Clone/
 
 ## Table of Contents
 
